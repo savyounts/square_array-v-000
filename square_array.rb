@@ -7,7 +7,7 @@ def square_array(array)
   #return new_array
   array.collect do |number|
     number**2 
-  end
+  #end
   
 end
 
